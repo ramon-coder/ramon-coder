@@ -70,8 +70,9 @@ Soy un estudiante de Ingeniería en Computación con más de cuatro años de exp
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=ramon-coder&theme=radical" alt="Stats de Ramon" />
-  <img src="https://gh-readme-profile.vercel.app/api/top-langs?username=ramon-coder&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://img.shields.io/github/stars/ramon-coder?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/ramon-coder?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/count/ramon-coder?style=social" alt="Languages" />
 </p>
 
 ---
